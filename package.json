@@ -1,0 +1,17 @@
+{
+  "name": "customemailvalidator2",
+  "version": "1.0.0",
+  "description": "email-validator",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "node test/test.js"
+  },
+
+  "keywords":[
+    "emailvalidator"
+  ],
+
+  "author": "Prarthnesh Bharti",
+  "license": "ISC"
+}
