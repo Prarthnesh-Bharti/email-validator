@@ -8,10 +8,21 @@
     "test": "node test/test.js"
   },
 
-  "keywords":[
+  "keywords": [
     "emailvalidator"
   ],
 
   "author": "Prarthnesh Bharti",
-  "license": "ISC"
+  "license": "ISC",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prarthnesh-Bharti/customemailvalidator2.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/Prarthnesh-Bharti/customemailvalidator2/issues"
+  },
+
+  "homepage": "https://github.com/Prarthnesh-Bharti/customemailvalidator2#readme"
 }
